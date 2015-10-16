@@ -37,4 +37,5 @@ That's where this app comes in.
 That's it.
 
 Here's a simple mock-up of the checkin feature:
+
 <img width="446" alt="screen shot 2015-10-08 at 7 35 58 pm" src="https://cloud.githubusercontent.com/assets/364727/10384095/5dcd3592-6df4-11e5-926e-a1afb3f51864.png">
