@@ -2,7 +2,7 @@
 
 Remote-friendly scrum without the annoying meetings.
 
-An educational student app project originally designed for [Web Directions 2015](http://www.webdirections.org/wd15/#workshops) two pillars of JavaScript Workshop.
+An educational student app project originally designed for [Learn JavaScript with Eric Elliott](https://ericelliottjs.com/). First presented at [Web Directions 2015](http://www.webdirections.org/wd15/#workshops).
 
 ## Instructions
 
@@ -34,7 +34,7 @@ That's where this app comes in.
 * Allow a user to check in with a specific team and answer each of the three scrum questions.
 * Allow team members to view the team status: A simple display of each user's most recent checkin.
 
-That's it.
+That's it. When you've got a working prototype, [open a new issue here](https://github.com/ericelliott/checkin/issues/new?title=Student+Project) with a link to your project.
 
 Here's a simple mock-up of the checkin feature:
 
