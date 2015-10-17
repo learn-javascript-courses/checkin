@@ -1,12 +1,12 @@
-# CheckIn
+# Checkin
 
-Remote-friendly scrum without the annoying meetings.
+Remote-friendly scrum checkins without the annoying meetings.
 
 An educational student app project originally designed for [Learn JavaScript with Eric Elliott](https://ericelliottjs.com/). First presented at [Web Directions 2015](http://www.webdirections.org/wd15/#workshops).
 
 ## Instructions
 
-Fork this repository to your own account and implement your own CheckIn app. Feel free to recruit other people and work in groups (ideally up to 7 people).
+Fork this repository to your own account and implement your own Checkin app. Feel free to recruit other people and work in groups (ideally up to 7 people).
 
 
 ## What's a Scrum Checkin?
