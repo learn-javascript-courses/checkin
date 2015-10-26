@@ -47,7 +47,9 @@ Don't worry about anything but getting the user interfaces to work. No need for 
 ### Extra credit
 
 * Allow a user to join an existing team.
-* Extra credit: Store data on a remote server and let other users sign up. Consider a turnkey solution such as [FireBase](https://www.firebase.com/) or [Parse](https://parse.com/).
+* Store data on a remote server and let other users sign up. Consider a turnkey solution such as [FireBase](https://www.firebase.com/) or [Parse](https://parse.com/).
+* Integrate with Github and let users link updates to the current issue they're working on.
+* Add realtime capability and update the status when another user checks in.
 
 That's it. When you've got a working prototype, [open a new issue here](https://github.com/ericelliott/checkin/issues/new?title=Student+Project) with a link to your project.
 
