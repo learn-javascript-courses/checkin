@@ -37,6 +37,8 @@ That's where this app comes in.
 
 ## App Requirements
 
+Don't worry about anything but getting the user interfaces to work. No need for user authorization, databases, or API's for now. Feel free to make some fake users and fake checkin data.
+
 * Allow a user to create and name teams. Users own the teams they create.
 * Allow a user to check in with a specific team and answer each of the three scrum questions.
 * View the team status: A simple display of each user's most recent checkin.
