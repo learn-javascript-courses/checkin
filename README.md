@@ -28,11 +28,15 @@ That's where this app comes in.
 
 ## App Requirements
 
-* Allow a user to create a profile and log in. Keep this as simple as possible. Keep it simple. Consider an out-of-the-box solution such as [FireBase](https://www.firebase.com/docs/web/guide/user-auth.html).
 * Allow a user to create and name teams. Users own the teams they create.
-* Allow team owners to add people to the team.
 * Allow a user to check in with a specific team and answer each of the three scrum questions.
-* Allow team members to view the team status: A simple display of each user's most recent checkin.
+* View the team status: A simple display of each user's most recent checkin.
+
+
+### Extra credit
+
+* Allow a user to join an existing team.
+* Extra credit: Store data on a remote server and let other users sign up. Consider a turnkey solution such as [FireBase](https://www.firebase.com/) or [Parse](https://parse.com/).
 
 That's it. When you've got a working prototype, [open a new issue here](https://github.com/ericelliott/checkin/issues/new?title=Student+Project) with a link to your project.
 
