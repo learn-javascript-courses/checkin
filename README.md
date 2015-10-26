@@ -6,7 +6,7 @@ An educational student app project originally designed for [Learn JavaScript wit
 
 ## Instructions
 
-Fork this repository to your own account and implement your own Checkin app. Feel free to recruit other people and work in groups (ideally up to 7 people).
+Create a repository and implement your own Checkin app. Feel free to recruit other people and work in groups (ideally up to 7 people).
 
 
 ## What's a Scrum Checkin?
