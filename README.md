@@ -14,8 +14,8 @@ Create a repository and implement your own Checkin app. Feel free to recruit oth
 * Don't export any classes. If you need to instantiate anything, use a factory function.
 * Use **pure functions** wherever you can. A pure function does not mutate anything outside itself. A pure function does not produce side effects. Given the same inputs, a pure function will always return the same output.
 * Notice how much of the program state can be represented as lists of things:
-  - A list of users
-  - A list of teams
+  - A list of users.
+  - A list of teams.
   - A list of checkins.
 
 ## What's a Scrum Checkin?
