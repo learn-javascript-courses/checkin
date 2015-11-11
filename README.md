@@ -2,7 +2,7 @@
 
 Remote-friendly scrum checkins without the annoying meetings.
 
-An educational student app project originally designed for [Learn JavaScript with Eric Elliott](https://ericelliottjs.com/). First presented at [Web Directions 2015](http://www.webdirections.org/wd15/#workshops).
+An educational student app project originally designed for [Learn JavaScript with Eric Elliott](https://ericelliottjs.com/).
 
 ## Instructions
 
