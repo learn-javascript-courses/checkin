@@ -6,7 +6,9 @@ An educational student app project originally designed for [Learn JavaScript wit
 
 ## Instructions
 
-Create a repository and implement your own Checkin app. Feel free to recruit other people and work in groups (ideally up to 7 people).
+Create a repository and implement your own Checkin app. Feel free to recruit other people and work in groups (ideally 2 - 7 people). Recruit your team in the [JavaScript Questions Chat](https://gitter.im/learn-javascript-courses/javascript-questions).
+
+Can't find a team? No problem. Fly solo and keep all the glory.
 
 
 ## Things to Keep in Mind
