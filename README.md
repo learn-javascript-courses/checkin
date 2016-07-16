@@ -46,6 +46,10 @@ Don't worry about anything but getting the user interfaces to work. No need for 
 * Allow a user to check in with a specific team and answer each of the three scrum questions.
 * View the team status: A simple display of each user's most recent checkin.
 
+Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
+
+<img width="446" alt="screen shot 2015-10-08 at 7 35 58 pm" src="https://cloud.githubusercontent.com/assets/364727/10384095/5dcd3592-6df4-11e5-926e-a1afb3f51864.png">
+
 
 ### Extra credit
 
@@ -54,8 +58,12 @@ Don't worry about anything but getting the user interfaces to work. No need for 
 * Integrate with Github and let users link updates to the current issue they're working on.
 * Add realtime capability and update the status when another user checks in.
 
-That's it. When you've got a working prototype, [open a new issue here](https://github.com/ericelliott/checkin/issues/new?title=Student+Project) with a link to your project.
 
-Here's a simple mock-up of the checkin feature:
 
-<img width="446" alt="screen shot 2015-10-08 at 7 35 58 pm" src="https://cloud.githubusercontent.com/assets/364727/10384095/5dcd3592-6df4-11e5-926e-a1afb3f51864.png">
+## To Implement:
+
+1. Fork this repo
+2. Implement your solution.
+3. Open an issue with a link to your fork.
+
+To get credit, you must [open an issue](https://github.com/learn-javascript-courses/checkin/issues/new?title=Challenge+completed+level:+basic/mid/advanced) with a link to your fork.
