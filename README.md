@@ -38,7 +38,7 @@ But what about distributed teams working in different timezones? And even a 15 m
 That's where this app comes in.
 
 
-## App Requirements
+## Basic Requirements
 
 Don't worry about anything but getting the user interfaces to work. No need for user authorization, databases, or API's for now. Feel free to make some fake users and fake checkin data.
 
@@ -51,10 +51,14 @@ Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
 <img width="446" alt="screen shot 2015-10-08 at 7 35 58 pm" src="https://cloud.githubusercontent.com/assets/364727/10384095/5dcd3592-6df4-11e5-926e-a1afb3f51864.png">
 
 
-### Extra credit
+### Mid Level Requirements
 
 * Allow a user to join an existing team.
-* Store data on a remote server and let other users sign up.
+* Store data on a remote server and let other users sign up. Consider trying [Horizon](http://horizon.io/).
+
+
+### Advanced Requirements
+
 * Integrate with Github and let users link updates to the current issue they're working on.
 * Add realtime capability and update the status when another user checks in.
 
