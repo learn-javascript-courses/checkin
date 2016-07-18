@@ -60,9 +60,8 @@ Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
 ### Advanced Requirements
 
 * Integrate with Github and let users link updates to the current issue they're working on.
+* Automate checkin updates by adding assigned project issues from GitHub to the user's status.
 * Add realtime capability and update the status when another user checks in.
-
-
 
 ## To Implement:
 
