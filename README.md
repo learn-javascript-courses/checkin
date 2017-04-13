@@ -13,7 +13,7 @@ Can't find a team? No problem. Fly solo and keep all the glory.
 
 ## Things to Keep in Mind
 
-* Not sure where to start? Try the [Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate#universal-react-boilerplate) or take a peak at some [sample code](https://github.com/ericelliott/checkin).
+* Not sure where to start? Try [Next.js](https://zeit.co/blog/next).
 * Don't export any classes. If you need to instantiate anything, use a factory function.
 * Use **pure functions** wherever you can. A pure function does not mutate anything outside itself. A pure function does not produce side effects. Given the same inputs, a pure function will always return the same output.
 * Notice how much of the program state can be represented as lists of things:
@@ -44,7 +44,7 @@ Don't worry about anything but getting the user interfaces to work. No need for 
 
 * Allow a user to create and name teams. Users own the teams they create.
 * Allow a user to check in with a specific team and answer each of the three scrum questions.
-* View the team status: A simple display of each user's most recent checkin.
+* View the team status: A simple display of all the team's checkins for today (or any day in the past).
 
 Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
 
@@ -54,14 +54,14 @@ Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
 ### Mid Level Requirements
 
 * Allow a user to join an existing team.
-* Store data on a remote server and let other users sign up. Consider trying [Horizon](http://horizon.io/).
+* Store data on a remote server and let other users sign up.
 
 
 ### Advanced Requirements
 
 * Integrate with Github and let users link updates to the current issue they're working on.
 * Automate checkin updates by adding assigned project issues from GitHub to the user's status.
-* Add realtime capability and update the status when another user checks in.
+* Add realtime capability and update today's checkins view when another user checks in.
 
 ## To Implement:
 
