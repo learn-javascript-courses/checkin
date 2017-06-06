@@ -14,7 +14,7 @@ Can't find a team? No problem. Fly solo and keep all the glory.
 ## Things to Keep in Mind
 
 * Not sure where to start? Try [Next.js](https://zeit.co/blog/next).
-* Don't export any classes. If you need to instantiate anything, use a factory function.
+* Favor functional components over class-based components when it makes sense.
 * Use **pure functions** wherever you can. A pure function does not mutate anything outside itself. A pure function does not produce side effects. Given the same inputs, a pure function will always return the same output.
 * Notice how much of the program state can be represented as lists of things:
   - A list of users.
