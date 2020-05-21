@@ -11,12 +11,12 @@ Fork this repository and implement your own Checkin app.
 
 ## Tech Stack Checklist
 
-* [Use Next.JS](https://nextjs.org/)
-* [Setup automatic lint and prettier runs](https://medium.com/javascript-scene/streamline-code-reviews-with-eslint-prettier-6fb817a6b51d)
-* [Deploy on Vercel](https://vercel.com/)
-* [Authenticate users with Magic](https://magic.link/)
-* [Store data in Firebase](https://firebase.google.com/)
-* [Don't commit secrets to the repo](https://nextjs.org/docs/basic-features/environment-variables)
+* [ ] [Use Next.JS](https://nextjs.org/)
+* [ ] [Setup automatic lint and prettier runs](https://medium.com/javascript-scene/streamline-code-reviews-with-eslint-prettier-6fb817a6b51d)
+* [ ] [Deploy on Vercel](https://vercel.com/)
+* [ ] [Authenticate users with Magic](https://magic.link/)
+* [ ] [Store data in Firebase](https://firebase.google.com/)
+* [ ] [Don't commit secrets to the repo](https://nextjs.org/docs/basic-features/environment-variables)
 
 Related: [The 12-Factor App](https://12factor.net/)
 
@@ -27,9 +27,9 @@ In agile development, we strive to implement the minimum effective amount of pro
 
 The scrum meeting is a common element of that minimal process. Its purpose is to allow team members to check in with each other. On each work day, each small team gathers to answer three questions:
 
-* What did you do on the last workday?
-* What are you doing today?
-* Is there anything blocking you?
+* [ ] What did you do on the last workday?
+* [ ] What are you doing today?
+* [ ] Is there anything blocking you?
 
 Scrum teams should be small, so these meetings should last less than 15 minutes.
 
