@@ -6,7 +6,11 @@ A portfolio project for professional developers to highlight skills with modern 
 
 ## Instructions
 
-Fork this repository and implement your own Checkin app.
+Fork this repository and implement your own Checkin app. To get credit on EricElliottJS.com or DevAnywhere:
+
+* [ ] [Deploy on Vercel](https://vercel.com/).
+* [ ] Open an issue and include links to the deployed app and your forked repo.
+* [ ] [Ping us on Twitter](https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20Checkin%20app%20on%20EricElliottJS.com%20%40JS_Cheerleader%20%23JavaScript%20%23code) (fastest response)
 
 
 ## Tech Stack Checklist
