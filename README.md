@@ -123,24 +123,15 @@ That's it. Have a great day! 🎉
 
 ### Mid Level Requirements
 
-* Allow a user to join an existing team.
-* Store data on a remote server and let other users sign up.
+* [ ] Allow a user to join an existing team.
+* [ ] Store data on a remote server and let other users sign up.
 
 
 ### Advanced Requirements
 
-* Integrate with Github. On the "What will you work on today?" feature, provide an option to link a GitHub issue from their assigned issues.
-* Automate checkin updates to mark items as done when linked issues get closed on GitHub.
-* Add realtime capability and update today's checkins view as checkins are added, statuses change, and checklist items get marked complete.
-
-
-## To Implement:
-
-1. Fork this repo
-2. Implement your solution.
-3. Open an issue with a link to your fork.
-
-To get credit, you must [open an issue](https://github.com/learn-javascript-courses/checkin/issues/new?title=Challenge+completed+level:+basic/mid/advanced) with a link to your fork.
+* [ ] Integrate with Github. On the "What will you work on today?" feature, provide an option to link a GitHub issue from their assigned issues.
+* [ ] Automate checkin updates to mark items as done when linked issues get closed on GitHub.
+* [ ] Add realtime capability and update today's checkins view as checkins are added, statuses change, and checklist items get marked complete.
 
 
 ## License Terms
