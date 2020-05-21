@@ -95,19 +95,20 @@ Do today's tasks have any blockers? If so, please list them briefly, below:
 
 ```
 
-Great! How are you feeling today?
+1 - 5 words, what are we doing well? (optional)
+
+[ <text input> ]
+
+
+In 1 - 5 words, what needs improvement? (optional)
+
+[ <text input> ]
+
+Great! How are you feeling today? (select one)
 
 🙁 😐 😃
 
-
-1 - 5 words, what are we doing well?
-
-[ <text input> ]
-
-
-In 1 - 5 words, what needs improvement?
-
-[ <text input> ]
+[ Done ]
 
 ```
 
