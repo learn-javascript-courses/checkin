@@ -46,9 +46,9 @@ That's where this app comes in.
 
 Don't worry about anything but getting the user interfaces to work. No need for user authorization, databases, or API's for now. Feel free to make some fake users and fake checkin data.
 
-* Allow a user to create and name teams. Users own the teams they create.
-* Allow a user to check in with a specific team and answer each of the three scrum questions.
-* View the team status: A simple display of a running log of all the team's checkins, grouped by day.
+* [ ] Allow a user to create and name teams. Users own the teams they create.
+* [ ] Allow a user to check in with a specific team.
+* [ ] View the team status: A simple display of a running log of all the team's checkins, grouped by day.
 
 Here's a sketch of the checkin feature.
 
