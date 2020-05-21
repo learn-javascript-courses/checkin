@@ -77,7 +77,7 @@ Please check the items you completed, and add any additional items you completed
 
 ```
 
-What will you work on today? (Try to list 3-5 things you think you can **complete** today.
+What will you work on today? Try to list 3-5 things you think you can **complete** today.
 
 * [ ] <Priority 1 Task>
 * [ ] <Priority 2 Task>
