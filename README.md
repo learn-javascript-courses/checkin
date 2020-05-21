@@ -104,7 +104,7 @@ In 1 - 5 words, what needs improvement? (optional)
 
 [ <text input> ]
 
-Great! How are you feeling today? (select one)
+Great! How are you feeling today?
 
 🙁 😐 😃
 
