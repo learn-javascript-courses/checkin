@@ -50,7 +50,8 @@ Here's a sketch of the checkin feature.
 
 ## Screen 1:
 
----
+```
+
 Your last checkin said you would:
 
 * [ ] Write the README for the checkin app
@@ -65,11 +66,13 @@ Were there any blockers? If so, please list briefly below (one line each):
 Please check the items you completed, and add any additional items you completed.
 
 [ Done ]
----
+
+```
 
 ## Screen 2:
 
----
+```
+
 What will you work on today? (Try to list 3-5 things you think you can **complete** today.
 
 * [ ] <Priority 1 Task>
@@ -80,12 +83,14 @@ What will you work on today? (Try to list 3-5 things you think you can **complet
 Do today's tasks have any blockers? If so, please list them briefly, below:
 
 * + Add a blocker for today's tasks
----
+
+```
 
 
 ## Screen 3:
 
----
+```
+
 Great! How are you feeling today?
 
 🙁 😐 😃
@@ -99,15 +104,16 @@ Great! How are you feeling today?
 In 1 - 5 words, what needs improvement?
 
 [ <text input> ]
----
+
+```
 
 ## Screen 4:
 
----
+```
 
 That's it. Have a great day! 🎉
 
----
+```
 
 
 
