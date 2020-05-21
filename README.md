@@ -6,20 +6,20 @@ An educational student app project originally designed for [Learn JavaScript wit
 
 ## Instructions
 
-Create a repository and implement your own Checkin app. Feel free to recruit other people and work in groups (ideally 2 - 7 people). Recruit your team in the [JavaScript Questions Chat](https://gitter.im/learn-javascript-courses/javascript-questions).
-
-Can't find a team? No problem. Fly solo and keep all the glory.
+Fork this repository and implement your own CheckIn app.
 
 
-## Things to Keep in Mind
+## Tech Stack Checklist
 
-* Not sure where to start? Try [Next.js](https://zeit.co/blog/next).
-* Favor functional components over class-based components when it makes sense.
-* Use **pure functions** wherever you can. A pure function does not mutate anything outside itself. A pure function does not produce side effects. Given the same inputs, a pure function will always return the same output.
-* Notice how much of the program state can be represented as lists of things:
-  - A list of users.
-  - A list of teams.
-  - A list of checkins.
+* [Use Next.JS](https://nextjs.org/)
+* [Setup automatic lint and prettier runs](https://medium.com/javascript-scene/streamline-code-reviews-with-eslint-prettier-6fb817a6b51d)
+* [Deploy on Vercel](https://vercel.com/)
+* [Authenticate users with Magic](https://magic.link/)
+* [Store data in Firebase](https://firebase.google.com/)
+* [Don't commit secrets to the repo](https://nextjs.org/docs/basic-features/environment-variables)
+
+Related: [The 12-Factor App](https://12factor.net/)
+
 
 ## What's a Scrum Checkin?
 
@@ -44,11 +44,71 @@ Don't worry about anything but getting the user interfaces to work. No need for 
 
 * Allow a user to create and name teams. Users own the teams they create.
 * Allow a user to check in with a specific team and answer each of the three scrum questions.
-* View the team status: A simple display of all the team's checkins for today (or any day in the past).
+* View the team status: A simple display of a running log of all the team's checkins, grouped by day.
 
-Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
+Here's a sketch of the checkin feature.
 
-<img width="446" alt="screen shot 2015-10-08 at 7 35 58 pm" src="https://cloud.githubusercontent.com/assets/364727/10384095/5dcd3592-6df4-11e5-926e-a1afb3f51864.png">
+## Screen 1:
+
+---
+Your last checkin said you would:
+
+* [ ] Write the README for the checkin app
+* [ ] Document the stack requirements
+* [ ] Complete 2 code reviews
+* + Add another item
+
+Were there any blockers? If so, please list briefly below (one line each):
+
+* + Add a blocker from your previous checkin
+
+Please check the items you completed, and add any additional items you completed.
+
+[ Done ]
+---
+
+## Screen 2:
+
+---
+What will you work on today? (Try to list 3-5 things you think you can **complete** today.
+
+* [ ] <Priority 1 Task>
+* [ ] <Priority 2 Task>
+* [ ] <Priority 3 Task>
+* + Add another task you can probably complete today
+
+Do today's tasks have any blockers? If so, please list them briefly, below:
+
+* + Add a blocker for today's tasks
+---
+
+
+## Screen 3:
+
+---
+Great! How are you feeling today?
+
+🙁 😐 😃
+
+
+1 - 5 words, what are we doing well?
+
+[ <text input> ]
+
+
+In 1 - 5 words, what needs improvement?
+
+[ <text input> ]
+---
+
+## Screen 4:
+
+---
+
+That's it. Have a great day! 🎉
+
+---
+
 
 
 ### Mid Level Requirements
@@ -59,9 +119,10 @@ Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
 
 ### Advanced Requirements
 
-* Integrate with Github and let users link updates to the current issue they're working on.
-* Automate checkin updates by adding assigned project issues from GitHub to the user's status.
-* Add realtime capability and update today's checkins view when another user checks in.
+* Integrate with Github. On the "What will you work on today?" feature, provide an option to link a GitHub issue from their assigned issues.
+* Automate checkin updates to mark items as done when linked issues get closed on GitHub.
+* Add realtime capability and update today's checkins view as checkins are added, statuses change, and checklist items get marked complete.
+
 
 ## To Implement:
 
@@ -70,3 +131,16 @@ Here's a simple mock-up of the checkin feature. Feel free to improve on the UI:
 3. Open an issue with a link to your fork.
 
 To get credit, you must [open an issue](https://github.com/learn-javascript-courses/checkin/issues/new?title=Challenge+completed+level:+basic/mid/advanced) with a link to your fork.
+
+
+## License Terms
+
+By implementing the app described above and posting it publicly on GitHub, you agree to the following license terms:
+
+**"You"** or **"Your"** means the rights holder. **"Contributions"** means any software, images, audio, or other creative work produced by you during the course of working on this project. **Recipients** means anyone who recieves the software by any means, in any medium, or through any distribution channel.
+
+* **You Own Your Creative Work.** You reserve all right, title, and interest in and to Your Contributions. You may use your solo projects in your portfolio.
+* **Grant of Copyright License.** Subject to the terms and conditions of this Agreement, You hereby grant to Recipients of this software a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
+* **Grant of Patent License.** Subject to the terms and conditions of this Agreement, you hereby grant to recipients of this software patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work.
+
+You represent that you are legally entitled to grant the above license.
