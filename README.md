@@ -126,6 +126,7 @@ That's it. Have a great day! 🎉
 
 * [ ] Allow a user to join an existing team.
 * [ ] Store data on a remote server and let other users sign up.
+* [ ] Implement the [user stories](user-stories.md).
 
 
 ### Advanced Requirements
