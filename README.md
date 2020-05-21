@@ -2,11 +2,11 @@
 
 Remote-friendly scrum checkins without the annoying meetings.
 
-An educational student app project originally designed for [Learn JavaScript with Eric Elliott](https://ericelliottjs.com/).
+A portfolio project for professional developers to highlight skills with modern tech stacks like React, Redux, Serverless, etc. [EricElliottJS.com](https://ericelliottjs.com).
 
 ## Instructions
 
-Fork this repository and implement your own CheckIn app.
+Fork this repository and implement your own Checkin app.
 
 
 ## Tech Stack Checklist
