@@ -88,7 +88,7 @@ What will you work on today? Try to list 3-5 things you think you can **complete
 
 ```
 
-## Screen 3: Blockers
+Blockers:
 
 Carry over any previous blockers that are not checked off.
 
@@ -98,7 +98,7 @@ Do important tasks have any blockers? If so, please list them briefly, below:
 * + Add a blocker for today's tasks
 ```
 
-## Screen 4:
+## Screen 3:
 
 ```
 
@@ -119,7 +119,7 @@ Great! How are you feeling today?
 
 ```
 
-## Screen 5:
+## Screen 4:
 
 ```
 
