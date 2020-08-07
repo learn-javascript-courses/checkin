@@ -52,7 +52,7 @@ Don't worry about anything but getting the user interfaces to work. No need for 
 
 Here's a sketch of the checkin feature.
 
-## Screen 1:
+## Screen 1: Previous Day
 
 ```
 
@@ -73,7 +73,9 @@ Please check the items you completed, and add any additional items you completed
 
 ```
 
-## Screen 2:
+## Screen 2: Today
+
+Carry over unfinished items from the previous day. User should be able to delete tasks.
 
 ```
 
@@ -84,14 +86,19 @@ What will you work on today? Try to list 3-5 things you think you can **complete
 * [ ] <Priority 3 Task>
 * + Add another task you can probably complete today
 
-Do today's tasks have any blockers? If so, please list them briefly, below:
-
-* + Add a blocker for today's tasks
-
 ```
 
+## Screen 3: Blockers
 
-## Screen 3:
+Carry over any previous blockers that are not checked off.
+
+```
+Do important tasks have any blockers? If so, please list them briefly, below:
+
+* + Add a blocker for today's tasks
+```
+
+## Screen 4:
 
 ```
 
@@ -112,7 +119,7 @@ Great! How are you feeling today?
 
 ```
 
-## Screen 4:
+## Screen 5:
 
 ```
 
@@ -131,6 +138,7 @@ That's it. Have a great day! 🎉
 
 ### Advanced Requirements
 
+* [ ] Integrate with Slack and post reports.
 * [ ] Integrate with Github. On the "What will you work on today?" feature, provide an option to link a GitHub issue from their assigned issues.
 * [ ] Automate checkin updates to mark items as done when linked issues get closed on GitHub.
 * [ ] Add realtime capability and update today's checkins view as checkins are added, statuses change, and checklist items get marked complete.
